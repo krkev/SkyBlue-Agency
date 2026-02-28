@@ -1,5 +1,12 @@
-# Vue 3 + Vite
+# ✈️ SkyBlue - Application de Tourisme au Burundi
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Description
+Projet réalisé dans le cadre du TP du cours d'application web. Application de réservation touristique utilisant Vue.js et Firebase.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Installation
+1. `npm install`
+2. Configurer Firebase dans `src/firebase.js`
+3. `npm run dev`
+
+## Auteur
+* [Kurundere kévin]
